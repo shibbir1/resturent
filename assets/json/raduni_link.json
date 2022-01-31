@@ -1,0 +1,19 @@
+[
+   {
+    "id": 1,
+    "name":"Map",
+    "assetsimage": "assets/image/raduni.png"
+   },
+   
+   {
+      "id": 2,
+      "name":"Map",
+      "assetsimage": "assets/image/raduni1.png"
+   },
+   
+   {
+      "id": 1,
+      "name":"Map",
+      "assetsimage": "assets/image/raduni2.png"
+   }
+]

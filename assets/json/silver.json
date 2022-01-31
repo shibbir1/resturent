@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "Name": "The Jhumur Hotel & Restaurant",
+        "assetsimage": "assets/image/silver (1).png"
+    },
+    {
+       "id":1,
+       "Name": "The Jhumur Hotel & Restaurant",
+       "assetsimage": "assets/image/silver (2).png"
+    },
+    {
+       "id":1,
+       "Name": "The Jhumur Hotel & Restaurant",
+       "assetsimage": "assets/image/silver (3).png"
+    },
+    {
+       "id":1,
+       "Name": "The Jhumur Hotel & Restaurant",
+       "assetsimage": "assets/image/silver (4).png"
+    }
+    ,
+    {
+       "id":1,
+       "Name": "The Jhumur Hotel & Restaurant",
+       "assetsimage": "assets/image/silver (5).png"
+    },
+    {
+       "id":1,
+       "Name": "The Jhumur Hotel & Restaurant",
+       "assetsimage": "assets/image/silver (6).png"
+    }
+   
+]
