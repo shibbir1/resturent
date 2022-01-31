@@ -16,4 +16,4 @@ Details about khadok
 <img src="screenshorts/apk_ss_3.png"/>
 
 # Developer
-Hi there! I am Shibbir Hasan Sayed. I create Android apps for solving problems and to make things easier. Try out my new app খাদক(khadok)Code Generator. If you have any query related to it don't hasitate to [e-mail me.](mailto:shibbirhasan2006@gmail.com)
+Hi there! I am Shibbir Hasan Sayed. I create Android apps for solving problems and to make things easier. Try out my new app [খাদক(khadok](https://drive.google.com/file/d/1wzYKAnsl1AeFTwo4eb1TNBf97m2YhoIf/view?usp=sharing)Code Generator. If you have any query related to it don't hasitate to [e-mail me.](mailto:shibbirhasan2006@gmail.com)
